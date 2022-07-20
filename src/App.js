@@ -40,6 +40,8 @@ console.log("Component rendering");
           placeholder="Type away..." 
           value={text} 
           onChange={handleChange} />
+
+          
       </div>
           )
   
